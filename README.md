@@ -7,8 +7,8 @@ This is a Measure What Matters meets Elephant In The Brain meets Atomic Habits e
 Okru in its earlier form was live at okru.app and it has lived its life but we believe a new okru needs to be reborn from the principles with greater product features and more community driven. So this repo serves that purpose.
 
 
-1. (Motivation)[https://medium.com/@nuwandavek/okru-part-1-of-goals-friends-and-our-silly-brains-df2aac57a567]
-2. (v0 features)[https://medium.com/@nuwandavek/okru-part-2-features-dreams-and-promises-ef0ae394375a]
+1. [Motivation](https://medium.com/@nuwandavek/okru-part-1-of-goals-friends-and-our-silly-brains-df2aac57a567)
+2. [v0 features](https://medium.com/@nuwandavek/okru-part-2-features-dreams-and-promises-ef0ae394375a)
 
 
 ### What next?
